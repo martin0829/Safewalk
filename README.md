@@ -4,5 +4,5 @@
 
 Django:
 1. pip install django
-2. pip install djangorestwork
+2. pip install djangorestframework
 
